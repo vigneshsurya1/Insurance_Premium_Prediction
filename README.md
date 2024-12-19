@@ -6,7 +6,7 @@ This project aims to predict insurance premiums based on various factors using m
 ## Dataset
 - **Source**: Provide the source or description of the dataset.
 - **Features**:
-  - [List the key features, e.g., age, gender, BMI, smoking status, etc.]
+  - age, Annual Income,  Health Score, Credit Score.
 - **Target Variable**: Insurance Premium.
 
 ## Tools and Technologies
